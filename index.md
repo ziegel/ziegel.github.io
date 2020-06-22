@@ -11,3 +11,7 @@ Er war ein ungarischer Architekt.
 * ungarisch
 * Art Noveau
 * reich
+
+Hier sollte ein Zitat stehen, aber ich fand keins:
+> Hier sollte ein Zitat stehen
+> ich fand aber keins.
