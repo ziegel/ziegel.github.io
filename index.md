@@ -16,4 +16,4 @@ Hier sollte ein Zitat stehen, aber ich fand keins:
 > Hier sollte ein Zitat stehen
 > ich fand aber keins.
 
-<img src="https://hu.wikipedia.org/wiki/F%C3%A1jl:Szekelylaszlo.jpg"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Szekelylaszlo.jpg"/>
